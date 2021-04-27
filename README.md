@@ -1,6 +1,6 @@
 # Hello,I am Leonardo Sabra Barcia Lang 
 ## About Me :earth_americas:
-#### I am currently attending college at Inatel (Instituto Nacional de Telecomunicações). I am studying Software Engineering and i am at the 5th semester.
+I am currently attending college at Inatel (Instituto Nacional de Telecomunicações). I am studying Software Engineering and i am at the 5th semester.
 
 <br />
 
