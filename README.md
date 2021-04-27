@@ -1,6 +1,8 @@
-### Hello,I am Leonardo Sabra Barcia Lang 
+# Hello,I am Leonardo Sabra Barcia Lang 
+## About Me :earth_americas:
 I am currently attending college at Inatel (Instituto Nacional de Telecomunicações). I am studying Software Engineering and i am at the 5th semester.
 <br />
+## Experience :mortar_board:
 I have experience in the following programming languages: Java, Python, C++, C# ,Solidity, Lua, CSS.I also have experience in SQL and NoSQL.
 <br />
 Some of the programs I am used to work with are : Office Package(Excel,Word,PowerPoint), MongoDB (for NoSQL), MySQL ( for SQL), Visual Studio Code ,HxD ( for HEX editing) and many more other programs.
