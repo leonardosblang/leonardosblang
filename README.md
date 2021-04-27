@@ -4,7 +4,7 @@ I am currently attending college at Inatel (Instituto Nacional de Telecomunicaç
 ## Experience :mortar_board:
 I have experience in the following programming languages: Java, Python, C++, C# ,Solidity, Lua, CSS. I also have experience in SQL and NoSQL.
 <br />
-Some of the programs I am used to work with are : Office Package(Excel,Word,PowerPoint), MongoDB (for NoSQL), MySQL ( for SQL), Visual Studio Code ,HxD ( for HEX editing) and many more other programs.
+Some of the programs I am used to work with are : Office Package(Excel,Word,PowerPoint), MongoDB (for NoSQL), MySQL ( for SQL), Visual Studio Code , HxD ( for HEX editing) and many more other programs.
 
 
 <!--
