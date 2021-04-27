@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello,I am Leonardo Sabra Barcia Lang 
+I am currently attending college at Inatel (Instituto Nacional de Telecomunicações). I am studying Software Engineering and i am at the 5th semester.
+I have experience in the following programming languages: Java,Python,C++,C#,Solidity,Lua,CSS.I also have experience in SQL and NoSQL.
+Some of the programs I am used to work with are : Office Package(Excel,Word,PowerPoint) , MongoDB (for NoSQL) , MySQL ( for SQL) , Visual Studio Code , HxD ( for HEX editing) and many more programs.
+
 
 <!--
 **leonardosblang/leonardosblang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
